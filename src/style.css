@@ -281,6 +281,11 @@ section,
   }
 }
 
+.special-banner {
+  background-color: red;
+  height: 400px;
+}
+
 .featured-articles {
   background-color: var(--clr-primary-200);
 }

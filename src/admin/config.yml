@@ -31,6 +31,11 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "End Date", name: "endDate", widget: "datetime" }
-      - { label: "Run this Special?", name: "activeSpecial", widget: "boolean" }
+      - {
+          label: "Make this special active?",
+          name: "tags",
+          widget: "select",
+          options: ["active", "inactive"],
+        }
       - { label: "Image", name: "image", widget: "image" }
       - { label: "Image Description", name: "imageAlt", widget: "string" }
