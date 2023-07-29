@@ -1,6 +1,6 @@
 const { DateTime } = require("luxon");
 
-module.exports = async function (eleventyConfig) {
+module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/style.css");
   eleventyConfig.addPassthroughCopy("./src/assets");
 
