@@ -1,7 +1,7 @@
 {
   "name": "jamstack-blog-starter",
   "version": "1.0.0",
-  "description": "My implementation of the initial blog template for a JAMstack challenge.",
+  "description": "JAMSTACKKKK",
   "main": "index.js",
   "scripts": {
     "start": "eleventy --serve",
