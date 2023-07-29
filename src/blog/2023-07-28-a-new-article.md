@@ -1,11 +1,15 @@
 ---
 title: A new article
+description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae
+  delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio
+  aliquam?
 author: Andrew Sneed
 date: 2023-07-28
-tags: ["post"]
-image: ""
+tags:
+  - post
+image: /assets/screenshot_2023-07-22-16-56-11-57_be80aec1db9a2b53c9d399db0c602181.jpg
 imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id leo in vitae turpis massa. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Ornare aenean euismod elementum nisi quis eleifend. Amet tellus cras adipiscing enim eu turpis. Nisi vitae suscipit tellus mauris. Mauris in aliquam sem fringilla ut morbi tincidunt augue. Mi eget mauris pharetra et. Et tortor at risus viverra. Id eu nisl nunc mi ipsum faucibus vitae. Malesuada nunc vel risus commodo viverra maecenas. Et netus et malesuada fames ac turpis egestas sed. Massa vitae tortor condimentum lacinia quis. Eu augue ut lectus arcu bibendum at varius. Enim nec dui nunc mattis enim ut tellus elementum sagittis. In fermentum et sollicitudin ac orci. Nec sagittis aliquam malesuada bibendum arcu vitae elementum. Et ligula ullamcorper malesuada proin libero nunc consequat interdum varius. Id porta nibh venenatis cras sed felis eget velit. In hac habitasse platea dictumst.
